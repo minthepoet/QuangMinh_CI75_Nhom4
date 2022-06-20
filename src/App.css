@@ -29,5 +29,10 @@
   border: 1px solid black;
   width: 50%;
   height: 100%;
-  background-size: cover;
+  background-size: contain;
+}
+
+.image img{
+  width: 100%;
+  height: 100%;
 }
