@@ -1,0 +1,32 @@
+
+.container{
+    width: 1500px;
+    height: 350px;
+    border: 1px solid black;
+    display: flex;
+}
+
+.column-left{
+    width: 30%;
+    height: 100%;
+}
+
+.column-right{
+    width: 70%;
+    height: 100%;
+}
+
+.items-right{
+    padding-top: 10px;
+}
+
+.column-left img{
+    width: 150px;
+    margin-top: 70px;
+    margin-left: 250px;
+}
+
+.information{
+    margin-top: 50px;
+    margin-left: 15px;
+}
